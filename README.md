@@ -8,7 +8,7 @@ It demonstrates various concepts such as components, importing and exporting com
 1. Clone the repository:
 
    ```bash
-    https://github.com/IMANISHIMWE21218/React-js---todolist.git
+    https://github.com/IMANISHIMWE21218/Reactjs-todolist.git
 2. Navigate to the project directory:
    cd react-crud-todoapp
    
